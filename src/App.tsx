@@ -102,9 +102,8 @@ const Footer = () => (
           Creating meaningful content that inspires a global community. Let's build something extraordinary together.
         </p>
         <div className="flex gap-4">
-          <a href="#" className="p-2 bg-white rounded-full border border-black/5 hover:border-emerald-500 transition-colors"><Instagram size={20} /></a>
-          <a href="#" className="p-2 bg-white rounded-full border border-black/5 hover:border-emerald-500 transition-colors"><Youtube size={20} /></a>
-          <a href="#" className="p-2 bg-white rounded-full border border-black/5 hover:border-emerald-500 transition-colors"><Twitter size={20} /></a>
+          <a href="https://www.instagram.com/anime_1otakupulse111/" className="p-2 bg-white rounded-full border border-black/5 hover:border-emerald-500 transition-colors"><Instagram size={20} /></a>
+          <a href="https://www.youtube.com/@anime_1OtakuPulse111" className="p-2 bg-white rounded-full border border-black/5 hover:border-emerald-500 transition-colors"><Youtube size={20} /></a>
         </div>
       </div>
       <div>
