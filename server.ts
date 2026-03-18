@@ -15,8 +15,8 @@ async function startServer() {
 
   const getTransporter = () => {
     if (!transporter) {
-      const user = process.env.GMAIL_USER;
-      const pass = process.env.GMAIL_PASS;
+      const user = "rajdeepnayek2905@gmail.com";
+      const pass = "fqxg fqni fane vlxk";
 
       if (!user || !pass) {
         console.warn("Email credentials missing. Emails will not be sent.");
